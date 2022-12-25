@@ -393,7 +393,7 @@ header {
 .new-sect img {
     width: 100%;
     filter: grayscale(100%);
-
+overflow: hidden;
     max-width: 100%;
     transition: all .5s ease-in-out;
     cursor: pointer;
